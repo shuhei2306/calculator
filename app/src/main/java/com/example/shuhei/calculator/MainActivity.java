@@ -14,6 +14,8 @@ import static java.lang.Math.*;
 
 public class MainActivity extends ActionBarActivity {
 
+//    テスト
+
     BigDecimal number1 = new BigDecimal("0");
     BigDecimal number2 = new BigDecimal("0");
     BigDecimal answer = new BigDecimal("0");
